@@ -504,7 +504,7 @@ mark,
 
 code {
   font-size: 87.5%;
-  color: #e83e8c;
+  color: darkgray;
   word-wrap: break-word;
 }
 a > code {
